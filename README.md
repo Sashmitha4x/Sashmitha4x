@@ -54,11 +54,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Sashmitha4x\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Sashmitha4x\&theme=tokyonight\&hide_border=true)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sashmitha4x\&theme=tokyo-night)
 
 ---
 
