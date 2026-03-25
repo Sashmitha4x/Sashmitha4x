@@ -83,10 +83,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
+🎯 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sashmitha4x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github.com/Sashmitha4x/Sashmitha4x/assets/achievements/quickdraw-default.png" width="100" alt="Quickdraw"/>
+  <img src="https://github.com/Sashmitha4x/Sashmitha4x/assets/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/>
+  <img src="https://github.com/Sashmitha4x/Sashmitha4x/assets/achievements/yolo-default.png" width="100" alt="YOLO"/>
+</div>
+<div align="center">
+AchievementDescription🎯 QuickdrawClosed an issue or pull request within 5 minutes of opening🦈 Pull SharkOpened pull requests that have been merged🎲 YOLOMerged a pull request without review
 </div>
 
 ---
