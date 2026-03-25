@@ -1,8 +1,8 @@
 # Hi there, I'm Sashmitha 👋
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Sashmitha%20Nethranjana&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Sashmitha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Flutter+Developer+Intern;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
