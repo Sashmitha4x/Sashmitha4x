@@ -86,7 +86,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sashmitha4x&theme=radical&no-frame=true&column=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sashmitha4x&theme=tokyonight&column=3" alt="GitHub Trophies" />
 </div>
 
 ---
